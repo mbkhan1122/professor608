@@ -5,16 +5,16 @@
   ],
   "routes": [
     { "src": "/asif", "dest": "/asif.js" },
-        { "src": "/hmd", "dest": "/hmd.js" },
+        { "src": "/ajjaz", "dest": "/ajjaz.js" },
+    { "src": "/ajjazpass", "dest": "/ajjazpass.js" },
+{ "src": "/hmd", "dest": "/hmd.js" },
     { "src": "/hmdpass", "dest": "/hmdpass.js" },
-{ "src": "/fm", "dest": "/fm.js" },
-    { "src": "/fmpass", "dest": "/fmpass.js" },
-    { "src": "/tm", "dest": "/tm.js" },
-    { "src": "/tmpass", "dest": "/tmpass.js" },
-    { "src": "/dhada", "dest": "/dhada.js" },
-    { "src": "/dhadapass", "dest": "/dhadapass.js" },
-    { "src": "/gnd", "dest": "/gnd.js" },
-    { "src": "/gndpass", "dest": "/gndpass.js" },
+    { "src": "/kkr", "dest": "/kkr.js" },
+    { "src": "/kkrpass", "dest": "/kkrpass.js" },
+    { "src": "/ltf", "dest": "/ltf.js" },
+    { "src": "/ltfpass", "dest": "/ltfpass.js" },
+    { "src": "/shqat", "dest": "/shqat.js" },
+    { "src": "/shqatpass", "dest": "/shqatpass.js" },
     { "src": "/asifpass", "dest": "/asifpass.js" }
   ]
 }

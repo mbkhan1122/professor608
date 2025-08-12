@@ -11,8 +11,8 @@
     { "src": "/hameedpass", "dest": "/hameedpass.js" },
     { "src": "/kkr", "dest": "/kkr.js" },
     { "src": "/kkrpass", "dest": "/kkrpass.js" },
-    { "src": "/ltf", "dest": "/ltf.js" },
-    { "src": "/ltfpass", "dest": "/ltfpass.js" },
+    { "src": "/waheed", "dest": "/waheed.js" },
+    { "src": "/waheedpass", "dest": "/waheedpass.js" },
     { "src": "/shqat", "dest": "/shqat.js" },
     { "src": "/shqatpass", "dest": "/shqatpass.js" },
     { "src": "/asifpass", "dest": "/asifpass.js" }

